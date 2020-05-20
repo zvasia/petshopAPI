@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="User tests">
+    <test name="API Methods for User object">
+        <classes>
+            <class name="UserTest"/>
+        </classes>
+    </test>
+</suite>
